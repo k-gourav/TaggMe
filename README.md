@@ -5,4 +5,4 @@
 
 
 # Deployment
-You can view the project [at this site.](https://tabulaforall.netlify.app/)
+You can view the project [at this site.](https://taggme.netlify.app/)
